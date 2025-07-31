@@ -42,9 +42,6 @@ Here are some ideas to get you started:
 - [⌨️ Typing Speed Test App](https://github.com/Sohan-hub11/Typing-Speed-Test):  
   A fun browser-based typing speed game using HTML, CSS, and JavaScript.
 
-- [🌐 CN Lab Programs](https://github.com/Sohan-hub11/6th-Sem-CN_Lab):  
-  A collection of networking lab programs using Python and C.
-
 ---
 
 ## 🏆 Highlights
@@ -58,9 +55,9 @@ Here are some ideas to get you started:
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sohan-samanta-487747252/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sohan-samanta-271128257/)
 - 📁 [Portfolio (Coming Soon)]()
-- 📧 Email: sohan.samanta20@gmail.com
+- 📧 Email: sohansamanta18@gmail.com
 - 🌐 GitHub: [Sohan-hub11](https://github.com/Sohan-hub11)
 
 ---
