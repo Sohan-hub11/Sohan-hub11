@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - **Languages:** Python, JavaScript, C, Java  
 - **Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn  
-- **Web:** HTML, CSS, JavaScript, Flask, 
+- **Web:** HTML, CSS, JavaScript, Flask, ReactJs
 - **Tools:** Git, GitHub, VSCode, Jupyter Notebook, IntelliJ Idea  
 - **Other Interests:** GenAI, NLP, Streamlit, Docker (basic)
 
