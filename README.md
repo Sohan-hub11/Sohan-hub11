@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 ## 📊 Recent Projects
 
-- [🔗 Song Popularity Analysis](https://github.com/Sohan-hub11/Song-Popularity-EDA):  
-  EDA + Regression models to predict Spotify song popularity using audio features.
+- [🔗 React Projects](https://github.com/Sohan-hub11/React_Projects):  
+  Working on different React based mini Project for understanding he concepts.
   
 - [📈 Stock Price Prediction](https://github.com/Sohan-hub11/Stock_Price_Prediction):  
   LSTM-based deep learning model for predicting stock prices with historical trends.
