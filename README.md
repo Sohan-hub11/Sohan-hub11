@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 🔧 Tech Stack
 
-- **Languages:** Python, JavaScript, C, Java  
+- **Languages:** Python, JavaScript, Java  
 - **Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn  
 - **Web:** HTML, CSS, JavaScript, Flask, ReactJs
 - **Tools:** Git, GitHub, VSCode, Jupyter Notebook, IntelliJ Idea  
@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 ## 📊 Recent Projects
 
 - [🔗 React Projects](https://github.com/Sohan-hub11/React_Projects):  
-  Working on different React based mini Project for understanding he concepts.
+  Working on different React based mini Project for understanding the concepts.
   
 - [📈 Stock Price Prediction](https://github.com/Sohan-hub11/Stock_Price_Prediction):  
   LSTM-based deep learning model for predicting stock prices with historical trends.
 
-- [⌨️ Typing Speed Test App](https://github.com/Sohan-hub11/Typing-Speed-Test):  
-  A fun browser-based typing speed game using HTML, CSS, and JavaScript.
+- [⌨️ Quck Post App](https://github.com/Sohan-hub11/Quick-Post):  
+  A React based application for creating post and posting in the Web page.
 
 ---
 
