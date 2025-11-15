@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 ## 🔧 Tech Stack
 
-- **Languages:** Python, JavaScript, Java  
+- **Languages:** Java, JavaScript, Python
 - **Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn  
-- **Web:** HTML, CSS, JavaScript, Flask, ReactJs
+- **Web:** HTML, CSS, JavaScript, ReactJs, NodeJs
 - **Tools:** Git, GitHub, VSCode, Jupyter Notebook, IntelliJ Idea  
-- **Other Interests:** GenAI, NLP, Streamlit, Docker (basic)
+- **Other Interests:** GenAI, NLP, Deep Learning, SpringBoot, Docker (basic)
 
 ---
 
