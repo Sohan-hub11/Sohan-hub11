@@ -33,15 +33,15 @@ Here are some ideas to get you started:
 
 ## 📊 Recent Projects
 
-- [🔗 React Projects](https://github.com/Sohan-hub11/React_Projects):  
-  Working on different React based mini Project for understanding the concepts.
+- [CryptoSphere](https://github.com/Sohan-hub11/CryptoSphere):  
+  It is a crypto price tracking Application which shows the crypto currency price and other details on our react app.
   
-- [📈 Stock Price Prediction](https://github.com/Sohan-hub11/Stock_Price_Prediction):  
-  LSTM-based deep learning model for predicting stock prices with historical trends.
-
+- [Shortify](https://github.com/Sohan-hub11/Shortify):  
+  A Scalable URL Shortening Service using MERN Application.
+  
 - [⌨️ Quck Post App](https://github.com/Sohan-hub11/Quick-Post):  
   A React based application for creating post and posting in the Web page.
-
+  
 ---
 
 ## 🏆 Highlights
