@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ## 🔧 Tech Stack
 
 - **Languages:** Java, JavaScript, Python
+- **Web:** HTML, CSS, JavaScript, ReactJs, NodeJs, Express
 - **Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn  
-- **Web:** HTML, CSS, JavaScript, ReactJs, NodeJs
 - **Tools:** Git, GitHub, VSCode, Jupyter Notebook, IntelliJ Idea  
 - **Other Interests:** GenAI, NLP, Deep Learning, SpringBoot, Docker (basic)
 
