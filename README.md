@@ -1,4 +1,4 @@
-<h1 align="center" >Hola! <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Sohan Samanta</h1>
+<h1 align="center" >Hola!, I'm Sohan Samanta</h1>
 
 
 <!--
@@ -12,9 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Glad to see you here!
+### <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" /> Glad to see you here
 
 An Aspiring Software Developer with a strong foundation in computer science and hands-on experience in building practical, scalable full-stack applications. Always up for a discussion on softwares, business and other opportunity. I have also started exploring cloud workflows and modern deployment practices🚀.
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Cloud+Enthusiast;Building+Real-World+Scalable+Projects;Lifelong+Learner" />
+</p>
+
+---
 
 <img align="right" alt="Coding Cat" src="./assets/coding.webp" />
 
