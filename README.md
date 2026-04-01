@@ -1,4 +1,4 @@
-## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Sohan Samanta — a Developer 👨‍💻
+# Hola! <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Sohan Samanta — a Developer 👨‍💻
 
 <!--
 **Sohan-hub11/Sohan-hub11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,7 +49,7 @@ An Aspiring Software Developer with a strong foundation in computer science and 
 
 ---
 
-## 📊 Recent Projects
+### 📊 Recent Projects
 
 - [CryptoSphere](https://github.com/Sohan-hub11/CryptoSphere):  
   It is a crypto price tracking Application which shows the crypto currency price and other details on our react app.
@@ -62,7 +62,7 @@ An Aspiring Software Developer with a strong foundation in computer science and 
   
 ---
 
-## 🏆 Highlights
+### 🏆 Highlights
 
 - ✅ Finalist – Smart India Hackathon 2024  
 - ✅ 5th Position – Smart Bengal Hackathon 2024  
@@ -71,7 +71,7 @@ An Aspiring Software Developer with a strong foundation in computer science and 
 
 ---
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sohan-samanta-271128257/)
 - 📁 [Portfolio (Coming Soon)]()
