@@ -1,4 +1,4 @@
-# 👋 Hola, I'm Sohan Samanta
+## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Sohan Samanta — a Developer 👨‍💻
 
 <!--
 **Sohan-hub11/Sohan-hub11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,21 +7,39 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Glad to see you here!
 
-🎓 Final Year Computer Science & Engineering student  
-💡 Passionate about Data Science, Machine Learning & Full-Stack Development  
-🚀 Hackathon Finalist | Open Source Contributor | Lifelong Learner  
+An Aspiring Software Developer with a strong foundation in computer science and hands-on experience in building practical, scalable full-stack applications. Always up for a discussion on softwares, business and other opportunity. I have also started exploring cloud workflows and modern deployment practices🚀.
+
+<img align="right" alt="Coding Cat" src="./assets/coding.webp" />
+
+### Talking about Personal Stuffs:
+
+- 🎓 &nbsp; Final Year Computer Science & Engineering student.
+- 💡 &nbsp; Passionate about Full-Stack Development & Scalable BackEnd Application.
+- 🛠 &nbsp; I'm currently building an AI SAAS Application - Text to Image Generator.
+- 🚀 &nbsp; I’m currently learning about Cloud, Linux, Modern Deplyment Technologies.
+- 👯 &nbsp; I’m looking to collaborate on ... Full Stack MERN Project.
+- 🤔 &nbsp; I’m looking for help with ... Any job applications.
+- 👾 &nbsp; Fun fact: I use tabs over spaces.
+- 📫 &nbsp; How to reach me: sohansamanta18@gmail.com
+- 🚀 &nbsp; Hackathon Finalist | Open Source Contributor | Lifelong Learner.
 
 ---
 
-## 🔧 Tech Stack
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new tech stack and developing new stuffs
+- 📰 &nbsp; Reading & writing tech blogs whenever possible
+- 🍕 &nbsp; Hackathons & coding competitions
+
+---
+
+### 🔧 Tech Stack
 
 - **Languages:** Java, JavaScript, Python
 - **Web:** HTML, CSS, JavaScript, ReactJs, NodeJs, Express
