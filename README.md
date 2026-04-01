@@ -1,4 +1,5 @@
-# Hola! <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Sohan Samanta — a Developer 👨‍💻
+<h1 align="center" >Hola! <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Sohan Samanta</h1>
+
 
 <!--
 **Sohan-hub11/Sohan-hub11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
