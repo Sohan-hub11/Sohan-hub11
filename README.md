@@ -56,6 +56,8 @@ An Aspiring Software Developer with a strong foundation in computer science and 
 
 ---
 
+![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
+
 ### 📊 Recent Projects
 
 - [CryptoSphere](https://github.com/Sohan-hub11/CryptoSphere):  
