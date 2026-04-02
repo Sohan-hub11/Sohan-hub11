@@ -31,7 +31,7 @@ An Aspiring Software Developer with a strong foundation in computer science and 
 - 🛠 &nbsp; I'm currently building an AI SAAS Application - Text to Image Generator.
 - 🚀 &nbsp; I’m currently learning about Cloud, Linux, Modern Deplyment Technologies.
 - 👯 &nbsp; I’m looking to collaborate on ... Full Stack MERN Project.
-- 🤔 &nbsp; I’m looking for help with ... Any job applications.
+- 🤔 &nbsp; I’m looking for help with ... Full Time/ Intern role.
 - 👾 &nbsp; Fun fact: I use tabs over spaces.
 - 📫 &nbsp; How to reach me: sohansamanta18@gmail.com
 - 🚀 &nbsp; Hackathon Finalist | Open Source Contributor | Lifelong Learner.
