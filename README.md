@@ -91,6 +91,25 @@ An Aspiring Software Developer with a strong foundation in computer science and 
 
 ---
 
+<!--
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sohan-hub11&show_icons=true&theme=tokyonight" />
+</p>
+
+
+--- -->
+
+<!-- Streak Status -->
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sohan-hub11&theme=tokyonight" />
+</p>
+
+---
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
