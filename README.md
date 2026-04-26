@@ -52,7 +52,7 @@ An Aspiring Software Developer with a strong foundation in computer science and 
 - **Web:** HTML, CSS, JavaScript, ReactJs, NodeJs, Express
 - **Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn  
 - **Tools:** Git, GitHub, VSCode, Jupyter Notebook, IntelliJ Idea  
-- **Other Interests:** GenAI, NLP, Deep Learning, SpringBoot, Docker (basic)
+- **Other Interests:** SpringBoot, AWS, Cloud Computing, GenAI, NLP, Deep Learning
 
 ---
 
