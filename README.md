@@ -28,7 +28,7 @@ An Aspiring Software Developer with a strong foundation in computer science and 
 
 - 🎓 &nbsp; Final Year Computer Science & Engineering student.
 - 💡 &nbsp; Passionate about Full-Stack Development & Scalable BackEnd Application.
-- 🛠 &nbsp; I'm currently building an AI SAAS Application - Text to Image Generator.
+- 🛠 &nbsp; I'm currently building an AI SAAS Application - Interview Preparation Roadmap.
 - 🚀 &nbsp; I’m currently learning about Cloud, Linux, Modern Deplyment Technologies.
 - 👯 &nbsp; I’m looking to collaborate on ... Full Stack MERN Project.
 - 🤔 &nbsp; I’m looking for help with ... Full Time/ Intern role.
