@@ -26,11 +26,11 @@ An Aspiring Software Developer with a strong foundation in computer science and 
 
 ### Talking about Personal Stuffs:
 
-- 🎓 &nbsp; Final Year Computer Science & Engineering student.
+- 🎓 &nbsp; Computer Science & Engineering Graduate.
 - 💡 &nbsp; Passionate about Full-Stack Development & Scalable BackEnd Application.
-- 🛠 &nbsp; I'm currently building an AI SAAS Application - Interview Preparation Roadmap.
+- 🛠 &nbsp; I'm currently building an AI SAAS Application - Text to Image Generator.
 - 🚀 &nbsp; I’m currently learning about Cloud, Linux, Modern Deplyment Technologies.
-- 👯 &nbsp; I’m looking to collaborate on ... Full Stack MERN Project.
+- 👯 &nbsp; I’m looking to collaborate on ... Full Stack Project.
 - 🤔 &nbsp; I’m looking for help with ... Full Time/ Intern role.
 - 👾 &nbsp; Fun fact: I use tabs over spaces.
 - 📫 &nbsp; How to reach me: sohansamanta18@gmail.com
@@ -48,10 +48,11 @@ An Aspiring Software Developer with a strong foundation in computer science and 
 
 ### 🔧 Tech Stack
 
-- **Languages:** Java, JavaScript, Python
+- **Languages:** Java, JavaScript, TypeScript, Python
 - **Web:** HTML, CSS, JavaScript, ReactJs, NodeJs, Express
 - **Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn  
-- **Tools:** Git, GitHub, VSCode, Jupyter Notebook, IntelliJ Idea  
+- **Tools:** Git, GitHub
+- **Platform:** Postman, VSCode, Jupyter Notebook, IntelliJ Idea  
 - **Other Interests:** SpringBoot, AWS, Cloud Computing, GenAI, NLP, Deep Learning
 
 ---
